@@ -116,6 +116,7 @@ A good calculator is sometimes all you need. These are free, browser-based, and 
 * [Inflation Calculator](https://www.financialaha.com/financial-calculators/inflation-calculator/) — future purchasing power of a dollar.
 * [Paycheck Calculator](https://www.financialaha.com/financial-calculators/paycheck-calculator/) — take-home pay after federal, state, FICA, deductions.
 * [Income Tax Calculator](https://www.financialaha.com/financial-calculators/income-tax-calculator/) — federal and state estimate.
+* [Jisuanqi 3000 Finance Calculators](https://jsq3000.com/finance) — China-localized mortgage, income tax, take-home salary, auto loan, and compound interest calculators with formulas and source notes.
 * [Social Security Calculator](https://www.financialaha.com/financial-calculators/social-security-calculator/) — claim age trade-offs.
 * [Student Loan Calculator](https://www.financialaha.com/financial-calculators/student-loan-calculator/) — IDR vs standard, refinance impact.
 
