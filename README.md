@@ -141,6 +141,7 @@ A full list of 45+ calculators is available at the [FinancialAha calculator inde
 
 | Tool | Best for | Pricing | Compare |
 |------|----------|---------|---------|
+| [FIRECalculatorHQ](https://firecalculatorhq.com/) | Coast FIRE with couples, pension and Social Security variants, no signup | Free | |
 | **[ProjectionLab](https://projectionlab.com)** | Detailed Monte Carlo retirement projections with scenario modeling. | Free / $108/yr Premium | [ProjectionLab alternatives](https://www.financialaha.com/alternatives/projection-lab/) |
 | **[New Retirement (Boldin)](https://boldin.com)** | Comprehensive retirement planning with Social Security, taxes, healthcare. | Free / $120/yr | n/a |
 | **[FinancialAha](https://www.financialaha.com/financial-calculators/fire-calculator/)** | FIRE number, Coast FIRE, retirement, withdrawal phase, all as free calculators or paid spreadsheet templates. | Free / paid | [Coast FIRE Calculator](https://www.financialaha.com/financial-calculators/coast-fire-calculator/) |
