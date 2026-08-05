@@ -1,3 +1,5 @@
+<img width="1776" height="636" alt="image" src="https://github.com/user-attachments/assets/f3262af0-79cd-4236-9109-5b2832e3f08d" />
+<img width="1776" height="636" alt="image" src="https://github.com/user-attachments/assets/689be15c-765b-4c33-8b02-075ae7967fdd" />
 # The Best Personal Finance Tools in 2026
 
 > A curated, opinionated, regularly updated list of the best apps, tools, spreadsheet templates, and calculators for managing your money in 2026. Covers budgeting, net worth tracking, investing, FIRE planning, debt payoff, taxes, and business finance.
@@ -168,6 +170,7 @@ A full list of 45+ calculators is available at the [FinancialAha calculator inde
 | **[FreeTaxUSA](https://www.freetaxusa.com)** | Free federal filing for most filers. State $15. | $0–$8+ |
 | **[Cash App Taxes](https://cash.app/taxes)** | Free federal AND state filing. Surprisingly capable. | Free |
 | **[FinancialAha Tax Planning Templates](https://www.financialaha.com/free-spreadsheet-templates/tax-planning/)** | Quarterly self-employment planning, multi-currency support. | Free / paid |
+| **[ChamTax](https://chamtax.com)** | Free US Powerball/Mega Millions after-tax payout calculator by country (21 countries), open CC0 dataset included. | Free |
 
 ---
 
