@@ -118,6 +118,7 @@ A good calculator is sometimes all you need. These are free, browser-based, and 
 * [Income Tax Calculator](https://www.financialaha.com/financial-calculators/income-tax-calculator/) — federal and state estimate.
 * [Social Security Calculator](https://www.financialaha.com/financial-calculators/social-security-calculator/) — claim age trade-offs.
 * [Student Loan Calculator](https://www.financialaha.com/financial-calculators/student-loan-calculator/) — IDR vs standard, refinance impact.
+* [TidyCalcs](https://www.tidycalcs.com) — free suite of calculators covering mortgages, loans, retirement, taxes, and budgeting, no signup required.
 
 A full list of 45+ calculators is available at the [FinancialAha calculator index](https://www.financialaha.com/financial-calculators/).
 
