@@ -197,6 +197,7 @@ For users who want full control over their financial data and refuse to connect 
 | **[Moneydance](https://moneydance.com)** | Long-running desktop money manager. Not open source but local-first. | [Moneydance alternatives](https://www.financialaha.com/alternatives/moneydance/) |
 | **[Banktivity](https://www.iggsoftware.com/banktivity)** | macOS-focused, local-first. | [Banktivity alternatives](https://www.financialaha.com/alternatives/banktivity/) |
 | **[FinancialAha](https://www.financialaha.com)** | Spreadsheets you fully own. Anonymous free tier. End-to-end encryption on paid cloud sync. No bank connection. | [Free templates](https://www.financialaha.com/free-spreadsheet-templates/) |
+| **[Open-Finance](https://github.com/openfinance-app/open-finance)** | Self-hosted personal finance manager (Java + React, Docker, SQLite/Postgres) with assets, budgets, QIF/OFX import, multi-currency and AI assistant. | [Actual Budget alternatives](https://www.financialaha.com/alternatives/actual-budget/) |
 
 Country-specific community tools:
 
