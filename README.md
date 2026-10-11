@@ -180,6 +180,7 @@ A full list of 45+ calculators is available at the [FinancialAha calculator inde
 | **[FreshBooks](https://www.freshbooks.com)** | Freelancers and service businesses. | $19–$60/mo |
 | **[Xero](https://www.xero.com)** | International small businesses, strong outside the US. | $20–$80/mo |
 | **[FinancialAha Business Templates](https://www.financialaha.com/free-spreadsheet-templates/business-finance/)** | Cash flow forecasting, petty cash logs, profit projections, invoicing. | Free / paid |
+| **[Tanzhang market stall surplus calculator](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en)** | CNY market sellers checking single-event operating surplus from net receipts, sold-goods cost, losses and event expenses; no signup, currency conversion, tax calculation or dedicated export. | Free web calculator / optional CNY19.90 Chinese workbook (limited WPS macOS testing; Excel/mobile unverified) |
 
 ---
 
