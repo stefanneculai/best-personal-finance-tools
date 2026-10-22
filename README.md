@@ -108,6 +108,7 @@ A good calculator is sometimes all you need. These are free, browser-based, and 
 * [Rent vs Buy Calculator](https://www.financialaha.com/financial-calculators/rent-vs-buy-calculator/) — break-even comparison with maintenance, taxes, appreciation, opportunity cost.
 * [Debt Payoff Calculator](https://www.financialaha.com/financial-calculators/debt-payoff-calculator/) — snowball or avalanche, side by side.
 * [Credit Card Payoff Calculator](https://www.financialaha.com/financial-calculators/credit-card-payoff-calculator/) — months to debt freedom at any payment level.
+* [Best Credit Card Rewards](https://bestcreditcardrewards.net/) - free calculator for finding cash back cards that fit your monthly spending, with estimated annual rewards, comparison against a flat rate card, and visible calculations; best for U.S. consumers comparing ongoing cash back; free, with no signup or affiliate commissions, and spending inputs stay in your browser.
 * [Emergency Fund Calculator](https://www.financialaha.com/financial-calculators/emergency-fund-calculator/) — three to twelve months target based on your real expenses.
 * [Retirement Calculator](https://www.financialaha.com/financial-calculators/retirement-calculator/) — withdrawal phase modeling, not just accumulation.
 * [401(k) Calculator](https://www.financialaha.com/financial-calculators/401k-calculator/) — with employer match, vesting, and contribution caps.
