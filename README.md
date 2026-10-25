@@ -102,6 +102,7 @@ A good calculator is sometimes all you need. These are free, browser-based, and 
 * [FIRE Calculator](https://www.financialaha.com/financial-calculators/fire-calculator/) — calculate your financial independence number and savings rate target.
 * [Coast FIRE Calculator](https://www.financialaha.com/financial-calculators/coast-fire-calculator/) — find the age at which you can stop contributing and still retire on schedule.
 * [Compound Interest Calculator](https://www.financialaha.com/financial-calculators/compound-interest-calculator/) — visualize growth from periodic contributions.
+* **[Calculators Site — Compound interest calculator](https://calculatorssite.com/finance/compound-interest-calculator)** — Free, no-sign-up browser calculator for comparing a starting balance and monthly deposits across daily, monthly, quarterly, or annual compounding; includes the formula, a worked example, and tax/inflation caveats. Best for: quick savings-growth scenarios with end-of-month deposits. Pricing: Free.
 * [Net Worth Calculator](https://www.financialaha.com/financial-calculators/net-worth-calculator/) — assets minus liabilities, with multi-currency support.
 * [Mortgage Payment Calculator](https://www.financialaha.com/financial-calculators/mortgage-payment-calculator/) — principal, interest, PMI, escrow breakdown.
 * [Home Affordability Calculator](https://www.financialaha.com/financial-calculators/home-affordability-calculator/) — how much house you can actually afford on your income.
