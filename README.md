@@ -245,6 +245,7 @@ Full free template library by category at [financialaha.com/free-spreadsheet-tem
 * [Best Empower (Personal Capital) alternatives](https://www.financialaha.com/alternatives/empower/)
 * [Best free Google Sheets finance templates](https://www.financialaha.com/alternatives/google-sheets-free-templates/)
 * [Best free Excel budget templates](https://www.financialaha.com/alternatives/excel-budget-templates/)
+* [Dinero](https://dinero.is/) — Compare personal finance software and tools. Best for choosing a budgeting app, subscription tracker, or shared-expense tool. Comparisons and calculators are free, with an optional paid Ask AI plan.
 
 ---
 
