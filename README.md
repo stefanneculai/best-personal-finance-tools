@@ -119,7 +119,7 @@ A good calculator is sometimes all you need. These are free, browser-based, and 
 * [Social Security Calculator](https://www.financialaha.com/financial-calculators/social-security-calculator/) — claim age trade-offs.
 * [Student Loan Calculator](https://www.financialaha.com/financial-calculators/student-loan-calculator/) — IDR vs standard, refinance impact.
 
-* [SubMT Subscription Cost Calculator](https://submt.web.app/guides/iphone-subscriptions#calculator) — free browser calculator for combining monthly and annual subscription fees into a yearly total, without signing up.
+* [SubMT Subscription Cost Calculator](https://submt.web.app/guides/iphone-subscriptions#annual-cost) — free browser calculator for combining monthly and annual subscription fees into a yearly total, without signing up.
 
 A full list of 45+ calculators is available at the [FinancialAha calculator index](https://www.financialaha.com/financial-calculators/).
 
